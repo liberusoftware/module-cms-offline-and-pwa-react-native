@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-offline-and-pwa-react-native",
+  "capabilityKey": "liberusoftware/module-cms-offline-and-pwa",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-offline-and-pwa-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/offline-and-pwa.md",
+  "presentationPlan": "projects/cms/react-native/offline-and-pwa.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
